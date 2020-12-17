@@ -1,0 +1,2 @@
+# localQrcode
+local generate QrCode
